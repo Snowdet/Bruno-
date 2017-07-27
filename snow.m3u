@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, INVESTIGAÇÃO DISCOVERY  
+http://104.236.59.219/investigation_discovery_hd/1/playlist.m3u8?pxAuth=rSyMofE47qEfOQS5Xfbqg2wWGFFHTW1m
+
+#EXTINF:-2, HISTORY
+http://104.236.59.219/the_history_channel_hd/2/playlist.m3u8?pxAuth=gdY9xZ0VJTHFlt3FWsJREvCvlTXVDvsB
+
+#EXTINF:-3, HBO2
+http://104.236.59.219/hbo_2_hd/2/playlist.m3u8?pxAuth=IZmNXZFsMk89KJXCgsSpH0gy4iezs1PJ
